@@ -1,0 +1,14 @@
+C:\Users\samae\source\Personal Projects\GuessANumber\bin\Debug\net8.0\GuessANumber.exe
+C:\Users\samae\source\Personal Projects\GuessANumber\bin\Debug\net8.0\GuessANumber.deps.json
+C:\Users\samae\source\Personal Projects\GuessANumber\bin\Debug\net8.0\GuessANumber.runtimeconfig.json
+C:\Users\samae\source\Personal Projects\GuessANumber\bin\Debug\net8.0\GuessANumber.dll
+C:\Users\samae\source\Personal Projects\GuessANumber\bin\Debug\net8.0\GuessANumber.pdb
+C:\Users\samae\source\Personal Projects\GuessANumber\obj\Debug\net8.0\GuessANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samae\source\Personal Projects\GuessANumber\obj\Debug\net8.0\GuessANumber.AssemblyInfoInputs.cache
+C:\Users\samae\source\Personal Projects\GuessANumber\obj\Debug\net8.0\GuessANumber.AssemblyInfo.cs
+C:\Users\samae\source\Personal Projects\GuessANumber\obj\Debug\net8.0\GuessANumber.csproj.CoreCompileInputs.cache
+C:\Users\samae\source\Personal Projects\GuessANumber\obj\Debug\net8.0\GuessANumber.dll
+C:\Users\samae\source\Personal Projects\GuessANumber\obj\Debug\net8.0\refint\GuessANumber.dll
+C:\Users\samae\source\Personal Projects\GuessANumber\obj\Debug\net8.0\GuessANumber.pdb
+C:\Users\samae\source\Personal Projects\GuessANumber\obj\Debug\net8.0\GuessANumber.genruntimeconfig.cache
+C:\Users\samae\source\Personal Projects\GuessANumber\obj\Debug\net8.0\ref\GuessANumber.dll
